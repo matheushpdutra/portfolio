@@ -32,8 +32,10 @@
 A bunch of projects I'm proud of ❤️
 
 🌎  Website: https://www.lojasboacompra.com/
+
 ![image](https://user-images.githubusercontent.com/115477370/208740422-d841cc74-ffd3-4cc0-8591-ed11bb4ee529.png)
-▶️  Creation of the online sales platform for 'Lojas Boa Compra', a chain of retail stores in Brazil. The primary programming language used was HTML
+
+Creation of the online sales platform for 'Lojas Boa Compra', a chain of retail stores in Brazil. The primary programming language used was HTML
 
 Note: Codes can be consulted by request at matheushpdutra@aluno.santoangelo.uri.br
 
